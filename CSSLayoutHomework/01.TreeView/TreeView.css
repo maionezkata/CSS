@@ -1,0 +1,23 @@
+﻿ul {
+    list-style-type:none;
+    display:block;
+    padding-left:10px;
+    width:100px;
+}
+    ul li a {
+    text-decoration:none;
+    color:black;
+    }
+    ul li a:hover {
+        text-decoration:underline;
+        color:black;
+    }
+    ul li ul {
+        display:none;
+    }            
+    ul li:hover > ul {
+        display: block;
+    }
+    ul li ul li a {
+        color: #808080;
+    }  

@@ -1,0 +1,5 @@
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\04.CSSTutorial\bin\04.CSSTutorial.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\04.CSSTutorial\bin\04.CSSTutorial.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\04.CSSTutorial\obj\Debug\04.CSSTutorial.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\04.CSSTutorial\obj\Debug\04.CSSTutorial.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\04.CSSTutorial\obj\Debug\04.CSSTutorial.csprojResolveAssemblyReference.cache

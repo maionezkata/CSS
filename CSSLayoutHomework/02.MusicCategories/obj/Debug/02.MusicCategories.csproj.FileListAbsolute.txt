@@ -1,0 +1,5 @@
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\02.MusicCategories\bin\02.MusicCategories.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\02.MusicCategories\bin\02.MusicCategories.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\02.MusicCategories\obj\Debug\02.MusicCategories.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\02.MusicCategories\obj\Debug\02.MusicCategories.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSLayoutHomework\02.MusicCategories\obj\Debug\02.MusicCategories.csprojResolveAssemblyReference.cache
