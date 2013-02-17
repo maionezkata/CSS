@@ -1,0 +1,5 @@
+c:\users\maia\documents\visual studio 2012\Projects\CSSSASSHomework\CSSSASSHomework\bin\CSSSASSHomework.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSSASSHomework\CSSSASSHomework\bin\CSSSASSHomework.pdb
+c:\users\maia\documents\visual studio 2012\Projects\CSSSASSHomework\CSSSASSHomework\obj\Debug\CSSSASSHomework.csprojResolveAssemblyReference.cache
+c:\users\maia\documents\visual studio 2012\Projects\CSSSASSHomework\CSSSASSHomework\obj\Debug\CSSSASSHomework.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSSASSHomework\CSSSASSHomework\obj\Debug\CSSSASSHomework.pdb

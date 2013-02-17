@@ -1,0 +1,5 @@
+c:\users\maia\documents\visual studio 2012\Projects\CSSLESSHomework\CSSLESSHomework\bin\CSSLESSHomework.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSLESSHomework\CSSLESSHomework\bin\CSSLESSHomework.pdb
+c:\users\maia\documents\visual studio 2012\Projects\CSSLESSHomework\CSSLESSHomework\obj\Debug\CSSLESSHomework.csprojResolveAssemblyReference.cache
+c:\users\maia\documents\visual studio 2012\Projects\CSSLESSHomework\CSSLESSHomework\obj\Debug\CSSLESSHomework.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSLESSHomework\CSSLESSHomework\obj\Debug\CSSLESSHomework.pdb

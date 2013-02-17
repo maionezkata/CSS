@@ -1,0 +1,5 @@
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\02.SampleLogo\bin\02.SampleLogo.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\02.SampleLogo\bin\02.SampleLogo.pdb
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\02.SampleLogo\obj\Debug\02.SampleLogo.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\02.SampleLogo\obj\Debug\02.SampleLogo.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\02.SampleLogo\obj\Debug\02.SampleLogo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\03.TheSameLook\bin\03.TheSameLook.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\03.TheSameLook\bin\03.TheSameLook.pdb
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\03.TheSameLook\obj\Debug\03.TheSameLook.csprojResolveAssemblyReference.cache
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\03.TheSameLook\obj\Debug\03.TheSameLook.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\03.TheSameLook\obj\Debug\03.TheSameLook.pdb

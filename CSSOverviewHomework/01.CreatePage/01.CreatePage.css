@@ -1,0 +1,47 @@
+﻿body
+{
+    background-color: #595959;
+    font-family: Arial, sans-serif;
+    font-size:14px;
+}
+a
+{
+    color: #f3f6ac;
+    text-decoration: none;
+}
+thead
+{
+    font-size: 24px;
+    color: #acb1aa;
+    font-family:Arial;
+    font-weight:100;
+    text-align:left;
+}
+span#circle
+{
+    border-radius: 50%;
+    width: 1px;
+    height: 1px;
+    background-color: #71b47a;
+}
+span#active
+{
+    color: red;
+    font-weight:bold;
+}
+td
+{
+    padding: 5px;
+    color: #ccc;
+}
+td.first
+{
+    font-style: italic;
+    color: #fff;
+    padding-right: 2em;
+}
+td#status
+{
+    color: #F57101;
+    font-weight:bold;
+}

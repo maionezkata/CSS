@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Contacts", "02.Contacts\02.Contacts.csproj", "{937719F7-804B-450A-9D29-C1D7CB805EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TheSameLook", "03.TheSameLook\03.TheSameLook.csproj", "{5F8C319A-73E3-4A88-A141-D914E93B4E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CreatePage", "01.CreatePage\01.CreatePage.csproj", "{5D8CCB61-B4F6-4679-A4D9-2F563467F372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937719F7-804B-450A-9D29-C1D7CB805EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937719F7-804B-450A-9D29-C1D7CB805EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937719F7-804B-450A-9D29-C1D7CB805EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937719F7-804B-450A-9D29-C1D7CB805EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8C319A-73E3-4A88-A141-D914E93B4E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8C319A-73E3-4A88-A141-D914E93B4E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8C319A-73E3-4A88-A141-D914E93B4E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8C319A-73E3-4A88-A141-D914E93B4E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8CCB61-B4F6-4679-A4D9-2F563467F372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8CCB61-B4F6-4679-A4D9-2F563467F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8CCB61-B4F6-4679-A4D9-2F563467F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8CCB61-B4F6-4679-A4D9-2F563467F372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\04.WindowsCalculator\bin\04.WindowsCalculator.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\04.WindowsCalculator\bin\04.WindowsCalculator.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\04.WindowsCalculator\obj\Debug\04.WindowsCalculator.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\04.WindowsCalculator\obj\Debug\04.WindowsCalculator.pdb

@@ -1,0 +1,5 @@
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\01.WebPage\bin\01.WebPage.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\01.WebPage\bin\01.WebPage.pdb
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\01.WebPage\obj\Debug\01.WebPage.csprojResolveAssemblyReference.cache
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\01.WebPage\obj\Debug\01.WebPage.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSPresentationHomework\01.WebPage\obj\Debug\01.WebPage.pdb

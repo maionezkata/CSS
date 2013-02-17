@@ -1,0 +1,5 @@
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\02.Contacts\bin\02.Contacts.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\02.Contacts\bin\02.Contacts.pdb
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\02.Contacts\obj\Debug\02.Contacts.csprojResolveAssemblyReference.cache
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\02.Contacts\obj\Debug\02.Contacts.dll
+c:\users\maia\documents\visual studio 2012\Projects\CSSOverviewHomework\02.Contacts\obj\Debug\02.Contacts.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\03.NestedDivs\bin\03.NestedDivs.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\03.NestedDivs\bin\03.NestedDivs.pdb
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\03.NestedDivs\obj\Debug\03.NestedDivs.csprojResolveAssemblyReference.cache
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\03.NestedDivs\obj\Debug\03.NestedDivs.dll
+C:\Users\Maia\Documents\Visual Studio 2012\Projects\CSSPresentationHomework\03.NestedDivs\obj\Debug\03.NestedDivs.pdb
